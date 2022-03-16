@@ -1,6 +1,6 @@
-package br.com.pc.estruturadedados.arvore.model;
+package br.com.pc.estruturadedados.arvore;
 
-import br.com.pc.estruturadedados.arvore.ArvoreBinaria;
+import br.com.pc.estruturadedados.arvore.model.Objeto;
 
 public class Main {
     public static void main(String[] args) {
